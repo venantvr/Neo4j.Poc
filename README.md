@@ -1,0 +1,3 @@
+# NeoPoc
+
+Just a bootstrap for prototyping *Cypher* queries and some other *Neo4j* extensions...
