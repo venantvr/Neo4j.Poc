@@ -13,6 +13,4 @@ Proof of concept Neo4j avec un modele de graphe (Person, Address, Weapon), des r
 
 ## Stack
 
-- C# / .NET
-- Neo4j
-- Cypher
+[![Stack](https://skillicons.dev/icons?i=graphql,dotnet,cs&theme=dark)](https://skillicons.dev)
