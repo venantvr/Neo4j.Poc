@@ -1,3 +1,18 @@
 # Neo4j.Poc
 
-Just a bootstrap for prototyping *Cypher* queries and some other *Neo4j* extensions...
+Proof of concept Neo4j avec un modele de graphe (Person, Address, Weapon), des relations typees, et des operations de lecture/ecriture en Cypher.
+
+## Structure
+
+| Fichier / Dossier | Role |
+|-|-|
+| `NeoPoc.Console/` | Application console de demonstration |
+| `NeoPoc.Model/` | Modele de domaine (Person, Address, Weapon, Relationships/) |
+| `NeoPoc.Read/` | Couche de lecture Cypher |
+| `NeoPoc.Write/` | Couche d'ecriture Cypher |
+
+## Stack
+
+- C# / .NET
+- Neo4j
+- Cypher
